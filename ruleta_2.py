@@ -337,7 +337,7 @@ def completar_array(array, valor, longitud_objetivo):
 
 # Parámetros por si no se envían por consola todos
 apuesta_inicial = 100
-capital_inicial = 1000
+capital_inicial = 10000
 
 cantidad_tiradas = int(sys.argv[2])  # -c cantidad_tiradas
 cantidad_corridas = int(sys.argv[4])  # -n cantidad_corridas
